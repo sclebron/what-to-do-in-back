@@ -17,14 +17,14 @@
         "details": "The Denver Museum of Nature & Science is located in City Park, near the Denve Zoo. Tickets can be purchased online prior to visiting the museum.",
         "webUrl": "https://www.dmns.org/",
         "length": "Half day",
-        "distance": "",
-        "place": "",
-        "season": ""
+        "distance": "Within the city",
+        "place": "Indoors",
+        "season": "Winter, Spring, Summer, Fall"
     },
     {
-        "title": "",
-        "image": "",
-        "description": "",
+        "title": "Go to a Baseball Game at Coors Field",
+        "image": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/denver/Colorado-Rockies_7C649933-EFF0-51B0-9A02E85385D86848_7c6e2c50-dc33-ec19-aec679274174a195.jpg",
+        "description": "Watch the Rockies play at the iconic Coors Field. There are lots of bars and restaurants nearby to visit before or after the game!",
         "details": "",
         "webUrl": "",
         "length": "",
@@ -33,3 +33,5 @@
         "season": ""
     }
 ]
+
+//Broncos game, Avalanche game, Ski at Winter Park, Ski at Steamboat, Ski at Aspen
