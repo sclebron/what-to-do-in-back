@@ -22,7 +22,7 @@
         "season": "Winter, Spring, Summer, Fall"
     },
     {
-        "title": "Go to a Baseball Game at Coors Field",
+        "title": "Go to a Rockies Game at Coors Field",
         "image": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/denver/Colorado-Rockies_7C649933-EFF0-51B0-9A02E85385D86848_7c6e2c50-dc33-ec19-aec679274174a195.jpg",
         "description": "Watch the Rockies play at the iconic Coors Field. There are lots of bars and restaurants nearby to visit before or after the game!",
         "details": "Tickets can be purchased ahead of time online, or at Coors Field. Coors Field is 2 blocks away from Union Station, so the light rail or train into Union Station is a good transportation option to get to Coors Field.",
@@ -31,6 +31,17 @@
         "distance": "Within the city",
         "place": "Outdoors",
         "season": "Spring, Summer"
+    },
+    {
+        "title": "Go to Broncos Game at Mile High",
+        "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/milehigh21951.jpg",
+        "description": "See the Broncos play at Empower Field at Mile High Stadium.",
+        "details": "",
+        "webUrl": "",
+        "length": "",
+        "distance": "",
+        "place": "",
+        "season": ""
     }
 ]
 
