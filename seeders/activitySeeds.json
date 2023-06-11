@@ -57,8 +57,8 @@
     {
         "title": "Ski at Winter Park",
         "image": "https://res.cloudinary.com/miles-extranet-dev/image/upload/v1582130613/Winter_Park/account_photos/45/5b529c7b4d8857a8d81c9a2117ee42aa_2019_WP_CharlesStemen_DSC024631.jpg",
-        "description": "",
-        "details": "",
+        "description": "Winter Park is a very beginner friendly ski resort located just 75 miles from Denver.",
+        "details": "Winter Park is on the Ikon Pass, or if you don't have an Ikon Pass you can purchase a lift ticket online ahead of time or at Winter Park. The Winter Park Express is a seasonal train that runs on weekends from January-April. It takes passengers from Union Station directly to Winter Park Resort.",
         "webUrl": "",
         "length": "",
         "distance": "",
@@ -67,4 +67,4 @@
     }
 ]
 
-//Ski at Winter Park, Ski at Steamboat, Ski at Aspen, Nuggets game, kayak or paddle board at Bear Creek Lake Park, Rocky Mountain National Park, hikes, restaurants
+//Ski at Steamboat, Ski at Aspen, Nuggets game, kayak or paddle board at Bear Creek Lake Park, Rocky Mountain National Park, hikes, restaurants
