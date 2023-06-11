@@ -53,6 +53,17 @@
         "distance": "Within the city",
         "place": "Indoors",
         "season": "Fall, Winter"
+    },
+    {
+        "title": "Ski at Winter Park",
+        "image": "https://res.cloudinary.com/miles-extranet-dev/image/upload/v1582130613/Winter_Park/account_photos/45/5b529c7b4d8857a8d81c9a2117ee42aa_2019_WP_CharlesStemen_DSC024631.jpg",
+        "description": "",
+        "details": "",
+        "webUrl": "",
+        "length": "",
+        "distance": "",
+        "place": "",
+        "season": ""
     }
 ]
 
