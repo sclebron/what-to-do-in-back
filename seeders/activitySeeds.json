@@ -66,9 +66,9 @@
         "season": "Winter"
     },
     {
-        "title": "Ski at Steamboat Springs",
-        "image": "",
-        "description": "",
+        "title": "Ski at Steamboat Ski Resort",
+        "image": "https://www.steamboat-springs.com/assets/page_headers/Steamboat_Ski_Resort.jpg",
+        "description": "Ski during the day or night at Steamboat Ski Resort!",
         "details": "",
         "webUrl": "",
         "length": "",
@@ -78,4 +78,4 @@
     }
 ]
 
-//Ski at Steamboat, Ski at Aspen, Nuggets game, kayak or paddle board at Bear Creek Lake Park, Rocky Mountain National Park, hikes, restaurants
+//Ski at Aspen, Nuggets game, kayak or paddle board at Bear Creek Lake Park, Rocky Mountain National Park, hikes, restaurants
