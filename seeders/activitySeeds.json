@@ -69,13 +69,24 @@
         "title": "Ski at Steamboat Ski Resort",
         "image": "https://www.steamboat-springs.com/assets/page_headers/Steamboat_Ski_Resort.jpg",
         "description": "Ski during the day or night at Steamboat Ski Resort!",
-        "details": "Steamboat Springs is located about 150 miles form Denver. Steamboat is on the Ikon Pass, although the base pass only allows limited days at Steamboat. Lift tickets can be purchased ahead of time online, ",
-        "webUrl": "",
-        "length": "",
-        "distance": "",
-        "place": "",
-        "season": ""
+        "details": "Steamboat Springs is located about 150 miles form Denver. Steamboat is on the Ikon Pass, although the base pass only allows limited days at Steamboat. Lift tickets can be purchased ahead of time online, or at the resort.",
+        "webUrl": "https://www.steamboat.com/",
+        "length": "Full day, overnight",
+        "distance": "Few hours",
+        "place": "Outdoors",
+        "season": "Winter"
+    },
+    {
+        "title": "Ski at Aspen Snowmass Ski Resort",
+        "image": "https://www.aspensnowmass.com/-/media/aspen-snowmass/images/hero/hero-image/winter/2021-22/snowmass-hero-08182021.jpg?mw=1506&mh=930&hash=8711362070C02D29B00C0D09593FB504",
+        "description": "Ski at one of the four resorts (Aspen, Aspen Highlands, Snowmass, and Buttermilk) that make up the Aspen Snowmass Ski Resort!",
+        "details": "Lift tickets for Aspen Snowmass must be purchased online ahead of time, as this resort requires reservations. Aspen Snowmass is on the Ikon Pass, but the reservation is still required with the Ikon Pass. The resort is about 200 miles from Denver. Buttermilk is the most beginner friendly of the four mountains, Aspen and Snowmass are best suited for intermediate skiers, and Aspen Highlands is for advanced skiers.",
+        "webUrl": "https://www.aspensnowmass.com/",
+        "length": "Full day, overnight",
+        "distance": "Few hours",
+        "place": "Outdoors",
+        "season": "Winter"
     }
 ]
 
-//Ski at Aspen, Nuggets game, kayak or paddle board at Bear Creek Lake Park, Rocky Mountain National Park, hikes, restaurants
+//Nuggets game, kayak or paddle board at Bear Creek Lake Park, Rocky Mountain National Park, hikes, restaurants
